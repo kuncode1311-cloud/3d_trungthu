@@ -374,11 +374,11 @@ const interactiveObjects = [];
 
 const wishList = [
   {
-    text: "Chúc Hoài Ngọc một mùa Trung Thu siêu cấp đáng yêu, ăn bánh thả ga mà không sợ béo nha! 🥮✨",
+    text: "Chúc Hoài Ngọc một mùa Trung Thu thật vui vẻ và đáng yêu, ăn bánh thả ga mà không lo béo nha! 🥮✨",
     img: "./assets/1.jpg",
   },
   {
-    text: "Cầu chúc cho mọi điều ước bé xíu xiu dễ thương của Hoài Ngọc đều sớm thành hiện thực nè! 🐰⭐",
+    text: "Cầu chúc cho mọi điều ước nhỏ bé và dễ thương của Hoài Ngọc đều sớm trở thành hiện thực nhé! 🐰⭐",
     img: "./assets/2.jpg",
   },
   {
@@ -386,19 +386,19 @@ const wishList = [
     img: "./assets/3.jpg",
   },
   {
-    text: "Trung Thu vui vẻ nha Hoài Ngọc! Chúc bạn làm gì cũng suôn sẻ, việc gì cũng hanh thông và thuận lợi! 🎉🎈",
+    text: "Trung Thu vui vẻ nha Hoài Ngọc! Chúc bạn làm việc gì cũng suôn sẻ, vạn sự hanh thông và luôn gặp may mắn! 🎉🎈",
     img: "./assets/1.jpg",
   },
   {
-    text: "Mong Hoài Ngọc mỗi ngày mở mắt ra đều gặp toàn chuyện vui và những điều ngọt ngào, dễ thương! 🌸✨",
+    text: "Mong Hoài Ngọc mỗi ngày trôi qua đều ngập tràn niềm vui cùng những điều ngọt ngào, dễ thương! 🌸✨",
     img: "./assets/2.jpg",
   },
   {
-    text: "Chúc Hoài Ngọc có một đêm Trung Thu thật chill, ngắm trăng phá cỗ và luôn giữ nụ cười thật tươi nha! 🏮😄",
+    text: "Chúc Hoài Ngọc có một đêm Trung Thu thật thảnh thơi, ngắm trăng phá cỗ và nụ cười luôn rạng rỡ trên môi nha! 🏮✨",
     img: "./assets/3.jpg",
   },
   {
-    text: "Chúc Hoài Ngọc luôn xinh xắn, an nhiên, hạnh phúc và có một mùa trăng thật ấm áp bên gia đình và bạn bè! 🎊💖",
+    text: "Chúc Hoài Ngọc luôn xinh xắn, an nhiên, hạnh phúc và có một mùa trăng thật ấm áp bên gia đình và bạn bè! 🏮💖",
     img: "./assets/1.jpg",
   },
 ];
